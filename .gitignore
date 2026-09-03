@@ -1,0 +1,21 @@
+_# Python virtual environments
+venv/
+env/
+.venv/
+
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables & secret key files
+.env
+*.env
+config.json
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
