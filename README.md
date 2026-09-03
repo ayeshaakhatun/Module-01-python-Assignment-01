@@ -1,9 +1,4 @@
-* Subtotal 5000 or more ➔ **20% Discount**
-  * Subtotal 3000 to 4999 ➔ **10% Discount**
-  * Subtotal 1000 to 2999 ➔ **5% Discount**
-  * Subtotal under 1000 ➔ **No Discount**
-
-  # Python Programming Assignment
+# Python Programming Assignment
 
 A collection of foundational Python programs focusing on user inputs, data processing, conditional formatting logic (`if-elif-else`), arithmetic computations, and formatted string output (`f-strings`).
 
